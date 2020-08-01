@@ -1,0 +1,9 @@
+html{
+    box-sizing:border-box
+}
+.mybox{
+    display:none;
+}
+.show{
+    display:block;
+}
