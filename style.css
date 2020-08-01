@@ -1,9 +1,21 @@
 html{
     box-sizing:border-box
 }
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.xcontainer{
+    width:800px;
+    margin:auto;
+}
 .mybox{
     display:none;
 }
 .show{
     display:block;
+}
+.links{
+    text-align: center;
 }
